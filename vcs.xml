@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/wachatu/banya.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/wachatu/rxjava-examples.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\develop_data\github_code" />
